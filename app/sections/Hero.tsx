@@ -14,7 +14,7 @@ const Hero = () => {
           data-aos-once="false"
           className="text-raspberry text-8xl font-jersey font-bold text-center md:text-right md:text-9xl"
         >
-          Gaeuly
+          Nil
         </h1>
         <div className="mt-5 flex flex-wrap gap-5">
           <a
