@@ -22,7 +22,7 @@ const Contact = () => {
           <Github className="w-8 h-8" />
         </a>
         <a
-          href="https://www.youtube.com/@Gaeuly/videos"
+          href="https://youtube.com/@1tsnill?si=7YKO5W-z-PssevKW"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="YouTube Channel"
@@ -31,7 +31,7 @@ const Contact = () => {
           <Youtube className="w-8 h-8" />
         </a>
         <a
-          href="https://discord.gg/FnEe7xcYZQ"
+          href="https://discord.gg/Ju26HP8Em"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Discord Server"
