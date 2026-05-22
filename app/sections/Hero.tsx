@@ -18,7 +18,7 @@ const Hero = () => {
         </h1>
         <div className="mt-5 flex flex-wrap gap-5">
           <a
-            href="https://github.com/Gaeuly"
+            href="https://github.com"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="GitHub Profile"
@@ -27,7 +27,7 @@ const Hero = () => {
             <Github className="w-8 h-8" />
           </a>
           <a
-            href="https://www.youtube.com/@Gaeuly"
+            href="https://youtube.com/@1tsnill?si=7YKO5W-z-PssevKW"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="YouTube Channel"
@@ -36,7 +36,7 @@ const Hero = () => {
             <Youtube className="w-8 h-8" />
           </a>
           <a
-            href="https://discord.gg/FnEe7xcYZQ"
+            href="https://discord.gg/Ju26HP8Em"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Discord Server"
