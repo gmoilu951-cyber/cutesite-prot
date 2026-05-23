@@ -19,7 +19,7 @@ const jersey = Jersey_10({
 });
 
 export const metadata: Metadata = {
-  title: "gaeuly",
+  title: "nil",
   description: "Portfolio",
   icons: {
     icon: [
