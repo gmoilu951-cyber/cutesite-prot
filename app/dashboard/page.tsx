@@ -34,7 +34,7 @@ const Dashboard = () => {
 
                 {/* Text */}
                 <div className="mt-4 md:mt-0 md:ml-6 flex flex-col justify-center text-center md:text-left">
-                    <h1 className="text-3xl font-bold">nilop | 秋</h1>
+                    <h1 className="text-3xl font-bold">Nilop | 秋</h1>
                     <div className="flex items-center gap-2 font-pixelify justify-center md:justify-start">
                         <span className="text-gray-700">Virgo</span>
                         <span className="text-mauve-brown">❖</span>
