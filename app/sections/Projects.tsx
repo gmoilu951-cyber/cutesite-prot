@@ -15,7 +15,7 @@ const Projects = () => {
       <div className="mt-12 flex flex-wrap gap-10 justify-center">
         <div
           onClick={() =>
-            window.open("https://moonveil.cyou/", "_blank")
+            window.open("https://nil.is-a.dev", "_blank")
           }
           className="cursor-pointer"
         >
@@ -24,12 +24,12 @@ const Projects = () => {
             description="An advanced all-in-one Discord bot packed with powerful features, designed for both utility and entertainment."
             skills={['Discord.js', 'MongoDB', 'JavaScript', 'Shell', 'Supabase']}
             image="/project/moonveil.webp"
-            git="https://github.com/Gaeuly/"
+            git="https://github.com/1ts-nil"
           />
         </div>
         <div
           onClick={() =>
-            window.open("https://moonveil.cyou", "_blank")
+            window.open("https://nil.is-a.dev", "_blank")
           }
           className="cursor-pointer"
         >
