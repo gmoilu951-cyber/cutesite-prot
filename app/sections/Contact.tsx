@@ -13,7 +13,7 @@ const Contact = () => {
       </p>
       <div className="mt-12 flex flex-wrap gap-5">
         <a
-          href="https://github.com"
+          href="https://github.com/1ts-nil"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="GitHub Profile"
