@@ -18,7 +18,7 @@ const Hero = () => {
         </h1>
         <div className="mt-5 flex flex-wrap gap-5">
           <a
-            href="https://github.com"
+            href="https://github.com/1ts-nil"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="GitHub Profile"
