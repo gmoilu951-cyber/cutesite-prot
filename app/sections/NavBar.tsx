@@ -13,7 +13,7 @@ export default function Navbar() {
     <nav className="fixed top-0 left-0 w-full bg-light-pink text-white p-4 flex justify-between items-center z-50">
       {/* Logo */}
       <Link href="/" className="text-2xl font-bold font-pixelify text-black px-5">
-        Gaeuly
+        Nil
       </Link>
 
     <div className="hidden md:flex space-x-4">
